@@ -61,7 +61,7 @@ Problemas a resolver:
 
 ***
 
- _**When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking**_
+ _**When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking **_
     
     **1-STEP-EXECUTION**
     
