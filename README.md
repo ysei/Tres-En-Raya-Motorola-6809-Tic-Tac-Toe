@@ -54,13 +54,13 @@ Problemas a resolver:
 
 ***
 
-It is necesary to download the emulator archives (assembler,linker and executer) available for Linux (6809emu-UbuntuXXXX.tar If you use a different Linux distro from Ubuntu, just try both versions of the archives).
+* It is necesary to download the emulator archives (assembler,linker and executer) available for Linux (6809emu-UbuntuXXXX.tar If you use a different Linux distro from Ubuntu, just try both versions of the archives).
     
     -Decompress the file "tar xvf 6809emu-UbuntuXXXX.tar" where XXXX is the rest of the name of the version you are trying to install.After that, reopen your session to apply the changes.
     
     -If you receive an error in 64bits like "bash: /home/javserher/bin/as6809: No such file or directory" trying to assembly,linking or executing, install the following package "sudo apt-get install libc6-i386"
-    
-    ***
+
+***
     
     _**When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking**_
     
