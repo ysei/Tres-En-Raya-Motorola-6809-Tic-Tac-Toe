@@ -60,7 +60,8 @@ Problemas a resolver:
     -If you receive an error in 64bits like "bash: /home/javserher/bin/as6809: No such file or directory" trying to assembly,linking or executing, install the following package "sudo apt-get install libc6-i386"
 
 ***
-    When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking
+
+ _**When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking**_
     
     **1-STEP-EXECUTION**
     
