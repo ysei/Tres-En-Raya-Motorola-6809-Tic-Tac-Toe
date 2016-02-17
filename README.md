@@ -41,9 +41,8 @@ Problemas a resolver:
 
 -Existe un problema que ocurre en ocasiones aleatorias a la hora de comprobar jugadas ganadoras.Se detallará en unos dias.
 
-##***
+#--------------------------------------------------------------------------------------------------------------------------
 
-##***
 ##(ENGLISH) Tic Tac Toe game for Motorola 6809 microprocessor
 
 ###Available:
@@ -62,7 +61,7 @@ Problemas a resolver:
 
 ***
     
-    _**When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking**_
+    When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking
     
     **1-STEP-EXECUTION**
     
