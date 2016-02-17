@@ -41,7 +41,7 @@ Problemas a resolver:
 
 -Existe un problema que ocurre en ocasiones aleatorias a la hora de comprobar jugadas ganadoras.Se detallará en unos dias.
 
-#------------------------------------------------------------
+#-----------------------------------------
 
 ##(ENGLISH) Tic Tac Toe game for Motorola 6809 microprocessor
 
@@ -76,5 +76,11 @@ Problemas a resolver:
     To execute finally:
     
     `m6809-run <file_name.s19>`
+    
+***
+
+Problems found:
+
+-Randomly sometimes it appears not to check properly if there is a winner.In the following days I will publish the details.
     
 
