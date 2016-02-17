@@ -9,7 +9,7 @@
 ***
 
 
-* Necesario para hacerlo funcionar los archivos del emulador para el 6809 disponibles para Linux (6809emu-UbuntuXXXX.tar En caso de usar una distro distinta a Ubuntu probar las dos versiones en la distribucion que se use) donde se incluye el ensamblador y enlazador: 
+* Necesario para hacerlo funcionar los archivos del emulador para el 6809 disponibles para Linux (6809emu-UbuntuXXXX.tar En caso de usar una distro distinta a Ubuntu probar las dos versiones) donde se incluye el ensamblador y enlazador: 
 
     -Descomprimir el archivo .tar con "tar xvf 6809emu-UbuntuXXXX.tar" donde XXXX es la version del archivo que estás intentando instalar.Volver a abrir sesion para que se apliquen los cambios
 
@@ -60,7 +60,6 @@ Problemas a resolver:
     -If you receive an error in 64bits like "bash: /home/javserher/bin/as6809: No such file or directory" trying to assembly,linking or executing, install the following package "sudo apt-get install libc6-i386"
 
 ***
-    
     When assemblying,linking or 1-step-executing you need to specify all .asm (while assemblying or 1-step-executing) or .rel files generated after assemblying for linking
     
     **1-STEP-EXECUTION**
